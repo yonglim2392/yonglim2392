@@ -1,8 +1,7 @@
 <div align="center">
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Yong%20Lim&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20and%20AI%20Engineer&descAlignY=58&descSize=22&animation=fadeIn)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A11CB&center=true&vCenter=true&width=700&lines=Data+and+AI+Engineer+%F0%9F%A4%96;End-to-End+Data+and+AI+System+Builder+%F0%9F%94%A7;Large-Scale+Pipeline+%7C+MLOps+%7C+Cloud+Infra+%E2%98%81%EF%B8%8F;Legacy+System+%3A+15+days+%E2%86%92+8+hours+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=2575FC&center=true&vCenter=true&width=850&lines=Data+and+AI+Engineer+%F0%9F%A4%96;End-to-End+Data+and+AI+System+Builder+%F0%9F%94%A7;Large-Scale+Pipeline+%7C+MLOps+%7C+Cloud+Infra+%E2%98%81%EF%B8%8F;Building+AI+Agents+%26+RAG+Systems+%F0%9F%A7%A0;Legacy+System+%3A+15+days+%E2%86%92+8+hours+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -16,11 +15,20 @@
 
 ## 🚀 About Me
 
-I design and optimize **large-scale data systems and AI models** — from pipeline architecture to cloud deployment.
+I am an **End-to-End Data & AI Engineer** with a solid foundation in data analysis, AI model development, and pipeline engineering. My ultimate goal is to build, deploy, and operate **business-valuable AI models** in real-world production environments.
 
-- Reduced legacy prediction system runtime from **15 days → 8 hours** (97% improvement)
-- Built **PPO + GA hybrid scheduling AI** that boosted production efficiency by 15%
-- Currently architecting a real-time trend prediction engine with **Airflow + Spark + LLM**
+- **Domain Expertise:** Specialized in processing complex **spatiotemporal and time-series data** to design scalable architectures from data ingestion to ML serving.
+- **Performance Optimization:** Reduced legacy prediction system runtime from **15 days → 8 hours** (97% improvement) by restructuring spatial DB architecture and implementing high-performance distributed processing.
+- **Business Impact:** Built **PPO + GA hybrid scheduling AI** using PyTorch, TensorFlow, and Apache Airflow, directly boosting production efficiency by 15%.
+- **Current Challenge:** Architecting **Project Trend-Undercurrent**, a real-time trend prediction engine utilizing Airflow, Spark, and LLMs.
+---
+
+## ☁️ Currently Focusing On
+
+- Building intelligent systems using **LLMs, RAG (Retrieval-Augmented Generation), and AI Agents**
+- Designing high-availability cloud architectures and optimizing storage performance on **AWS**
+- Implementing secure serverless networking, including **Lambda VPC integration** and **S3 data protection strategies**
+- Bridging the gap between data engineering and machine learning through automated pipelines
 
 ---
 
@@ -55,11 +63,13 @@ I design and optimize **large-scale data systems and AI models** — from pipeli
 
 </div>
 
-</div>
-
 ---
 
 ## 📊 GitHub Dashboard
+
+<details>
+<summary><b>Click to view detailed GitHub Stats</b></summary>
+<br/>
 
 <div align="center">
 
@@ -69,6 +79,7 @@ I design and optimize **large-scale data systems and AI models** — from pipeli
 <img src="https://raw.githubusercontent.com/yonglim2392/yonglim2392/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
 
 </div>
+</details>
 
 ---
 
