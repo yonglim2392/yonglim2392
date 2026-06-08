@@ -62,8 +62,11 @@ I design and optimize **large-scale data systems and AI models** — from pipeli
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=yonglim2392&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yonglim2392&layout=compact&theme=tokyonight&hide_border=true"/>
+<!-- github-profile-summary-cards: Actions 실행 후 output 브랜치에 자동 생성됨 -->
+<img src="https://raw.githubusercontent.com/yonglim2392/yonglim2392/output/profile-summary-card-output/github/0-profile-details.svg"/>
+
+<img src="https://raw.githubusercontent.com/yonglim2392/yonglim2392/output/profile-summary-card-output/github/1-repos-per-language.svg"/>
+<img src="https://raw.githubusercontent.com/yonglim2392/yonglim2392/output/profile-summary-card-output/github/2-most-commit-language.svg"/>
 
 <br/>
 
