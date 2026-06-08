@@ -18,11 +18,10 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GH_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-        env:
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}   # ← PAT로 private 커밋 포함
 
       - name: Push snake to output branch
         uses: peaceiris/actions-gh-pages@v4   # v3(Node20) → v4(Node24)
