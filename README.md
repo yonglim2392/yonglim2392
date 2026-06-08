@@ -18,59 +18,55 @@
 
 I design and optimize **large-scale data systems and AI models** — from pipeline architecture to cloud deployment.
 
-- ⚡ Reduced legacy prediction system runtime from **15 days → 8 hours** (97% improvement)
-- 🤖 Built **PPO + GA hybrid scheduling AI** that boosted production efficiency by 15%
-- 🔧 Currently architecting a real-time trend prediction engine with **Airflow + Spark + LLM**
+- Reduced legacy prediction system runtime from **15 days → 8 hours** (97% improvement)
+- Built **PPO + GA hybrid scheduling AI** that boosted production efficiency by 15%
+- Currently architecting a real-time trend prediction engine with **Airflow + Spark + LLM**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Language**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-
-**AI & ML**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-
-**Data Pipeline**
-
-![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
-![DBT](https://img.shields.io/badge/dbt-FF694B?style=flat-square&logo=dbt&logoColor=white)
-
-**Database**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![NoSQL](https://img.shields.io/badge/NoSQL-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
-
-**Cloud & Infra**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-
----
-
-## 📊 Stats
-
 <div align="center">
 
-<!-- github-profile-summary-cards: Actions 실행 후 output 브랜치에 자동 생성됨 -->
-<img src="https://raw.githubusercontent.com/yonglim2392/yonglim2392/output/profile-summary-card-output/github/0-profile-details.svg"/>
-
-<img src="https://raw.githubusercontent.com/yonglim2392/yonglim2392/output/profile-summary-card-output/github/1-repos-per-language.svg"/>
-<img src="https://raw.githubusercontent.com/yonglim2392/yonglim2392/output/profile-summary-card-output/github/2-most-commit-language.svg"/>
+**Languages & Database** <br/>
+![Python](https://img.shields.io/badge/Python-1A1B26?style=for-the-badge&logo=python&logoColor=7aa2f7)
+![SQL](https://img.shields.io/badge/SQL-1A1B26?style=for-the-badge&logo=postgresql&logoColor=7aa2f7)
+![Java](https://img.shields.io/badge/Java-1A1B26?style=for-the-badge&logo=openjdk&logoColor=7aa2f7)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1A1B26?style=for-the-badge&logo=postgresql&logoColor=7aa2f7)
+![NoSQL](https://img.shields.io/badge/NoSQL-1A1B26?style=for-the-badge&logo=mongodb&logoColor=7aa2f7)
 
 <br/>
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yonglim2392&theme=tokyonight&hide_border=true)
+**AI & Data Pipeline** <br/>
+![PyTorch](https://img.shields.io/badge/PyTorch-1A1B26?style=for-the-badge&logo=pytorch&logoColor=bb9af7)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1A1B26?style=for-the-badge&logo=tensorflow&logoColor=bb9af7)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1A1B26?style=for-the-badge&logo=scikit-learn&logoColor=bb9af7)
+![Apache Airflow](https://img.shields.io/badge/Airflow-1A1B26?style=for-the-badge&logo=apacheairflow&logoColor=bb9af7)
+![Apache Kafka](https://img.shields.io/badge/Kafka-1A1B26?style=for-the-badge&logo=apachekafka&logoColor=bb9af7)
+![Apache Spark](https://img.shields.io/badge/Spark-1A1B26?style=for-the-badge&logo=apachespark&logoColor=bb9af7)
+![DBT](https://img.shields.io/badge/dbt-1A1B26?style=for-the-badge&logo=dbt&logoColor=bb9af7)
+
+<br/>
+
+**Cloud & Infrastructure** <br/>
+![AWS](https://img.shields.io/badge/AWS-1A1B26?style=for-the-badge&logo=amazonaws&logoColor=9ece6a)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-1A1B26?style=for-the-badge&logo=kubernetes&logoColor=9ece6a)
+![Docker](https://img.shields.io/badge/Docker-1A1B26?style=for-the-badge&logo=docker&logoColor=9ece6a)
+
+</div>
+
+</div>
+
+---
+
+## 📊 GitHub Dashboard
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/yonglim2392/yonglim2392/main/profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+<br/>
+<img src="https://raw.githubusercontent.com/yonglim2392/yonglim2392/main/profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Top Languages" />
+<img src="https://raw.githubusercontent.com/yonglim2392/yonglim2392/main/profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
 
 </div>
 
