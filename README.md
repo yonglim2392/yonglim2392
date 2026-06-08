@@ -1,8 +1,8 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Yong%20Lim&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20%26%20AI%20Engineer&descAlignY=58&descSize=22&animation=fadeIn)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=200&section=header&text=Yong%20Lim&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Data%20and%20AI%20Engineer&descAlignY=58&descSize=22&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A11CB&center=true&vCenter=true&width=700&lines=Data+%26+AI+Engineer+%F0%9F%A4%96;End-to-End+Data+%26+AI+System+Builder+%F0%9F%94%A7;Large-Scale+Pipeline+%7C+MLOps+%7C+Cloud+Infra+%E2%98%81%EF%B8%8F;Legacy+System+%3A+15+days+%E2%86%92+8+hours+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=6A11CB&center=true&vCenter=true&width=700&lines=Data+and+AI+Engineer+%F0%9F%A4%96;End-to-End+Data+and+AI+System+Builder+%F0%9F%94%A7;Large-Scale+Pipeline+%7C+MLOps+%7C+Cloud+Infra+%E2%98%81%EF%B8%8F;Legacy+System+%3A+15+days+%E2%86%92+8+hours+%E2%9A%A1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -57,7 +57,7 @@
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yonglim2392&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)](https://github.com/yonglim2392)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yonglim2392&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/yonglim2392)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yonglim2392&layout=compact&theme=tokyonight&hide_border=true)](https://github.com/yonglim2392)
 
 <br/>
