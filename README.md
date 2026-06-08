@@ -40,19 +40,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-| Project | Key Architecture & Troubleshooting | Stack |
-|---------|------------------------------------|-------|
-| [News NLP Pipeline](https://github.com/yonglim2392/News-NLP-Pipeline-with-Airflow) | **실시간 뉴스 트렌드 분석기:** Airflow 기반 스케줄링을 통해 데이터 수집부터 감성 분석, 리포트 생성까지 전 과정을 자동화한 파이프라인 구축 | `Airflow` `NLP` `Python` |
-| [BigQuery News Sentiment](https://github.com/yonglim2392/bigquery-news-sentiment) | **대용량 상관관계 분석:** 환경 데이터(PM2.5)와 뉴스 감성 점수 간의 연관성을 BigQuery로 이관하여 쿼리 연산 비용 및 속도 최적화 | `BigQuery` `Airflow` |
-| [Weather PySpark Analysis](https://github.com/yonglim2392/daily-weather-pyspark-analysis) | **대용량 기상 데이터 처리:** 분산 처리 프레임워크인 PySpark를 도입하여 수백만 건의 기상 데이터 전처리 및 이상치 탐지 병목 해결 | `PySpark` `Pandas` |
-| [Smart Factory Platform](https://github.com/yonglim2392/human-centric-smart-factory-platform) | **실시간 제조 모니터링:** 메달리온 아키텍처와 AWS Serverless 환경을 결합하여 데이터의 신뢰성을 보장하는 실시간 모니터링 시스템 구축 | `AWS` `Kubernetes` |
-| [EKS Raffle HA System](https://github.com/yonglim2392/eks-raffle-ha-architecture) | **트래픽 스파이크 대응:** 이벤트 발생 시 급증하는 트래픽을 안정적으로 처리하기 위해 EKS 기반의 고가용성(HA) 컨테이너 오케스트레이션 설계 | `EKS` `Docker` |
-| [FDS](https://github.com/yonglim2392/FDS) | **하이브리드 이상거래 탐지:** Rule-Based 시스템의 한계를 극복하기 위해 머신러닝 예측을 결합한 실시간 금융 이상거래 탐지 알고리즘 구현 | `Python` `ML` |
-
----
-
 <div align="center">
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,100:2575fc&height=120&section=footer)
